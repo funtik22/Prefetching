@@ -1,0 +1,7 @@
+.vscode/
+*.out
+*.o
+*.obj
+linkedList_example
+memcpy_example
+prefetcher
